@@ -1,0 +1,45 @@
+Copyright (c) <year>, <holder>
+
+To the full extent permissible by law, this project is distributed as-is,
+without warranty or guarantee of any kind. By using, distributing or
+contributing to this project, you accept that neither the author, the
+distributor nor the copyright holder can be held liable for any damages
+resulting from this project.
+
+Permissions
+
+(1) You are hereby granted permission, free of charge, to distribute this
+project in it's entirety and without modification.
+
+(2) You are hereby granted permission, free of charge, to distribute the
+complete source material for this project, subject to the following conditions:
+ - the entire project as originally published can be derived by a competent user
+   from your distributed source material; and
+ - this copyright message is included with all distributed copies.
+
+(3) You are hereby granted permission, free of charge, to modify and distribute
+the project subject to the following conditions:
+ - the modification is solely for the purpose of enabling the project to be
+   distributed to or used by a wider audience;
+ - the modification does not change the project's meaning or functionality;
+ - the modification is clearly delineated from the original project; and
+ - this copyright message is included with all distributed copies, or
+   substantial part copies.
+
+(4) You are hereby granted permission, free of charge, to modify the project on
+the condition that the modification is intended to be a contribution to the
+original project. The modified version may be published only where the primary
+purpose of publication is to maintain a public record of the intended
+contribution.
+
+(5) By making a substantive contribution to this project from the point at which
+this license was applied, and having your contribution merged into the project
+by the project owner or any of his/her delegated parties, you are granted
+permission to distribute it with any modifications, subject to the following
+conditions:
+ - you make reasonable efforts to allow the recipient to verify that you have
+   made substantive contributions to the original project, for example, by
+   publishing under the same user name as that which the contribution was made
+   under or by linking to individual contributions; and
+ - this copyright message is included with all distributed copies, or
+   substantial part copies.
