@@ -1,8 +1,8 @@
-# contribute-first-license
+# Contribute-First License
 _A new open source license permitting derivative works only by previous
 contributors_
 
-**Version 0.1.0**
+_Version 0.1.0_
 
 This new license is pretty permissive, but only if you are a previous
 contributor. Otherwise it's quite restrictive, but gives a few permissions to
