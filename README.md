@@ -15,7 +15,8 @@ suitably generic term.
 ## Breakdown
 
 The first paragraph (after the obligatory copyright line) is to prevent us all
-being sued. After that, the permissions paragraphs are numbered.
+being sued. After that, the permissions paragraphs are numbered, which should
+hopefully allow them to be easily referenced by licensees.
 
 ### Permission 1 - redistribute in entirety
 This lets users redistribute the whole project. Easy.
