@@ -11,7 +11,7 @@ resulting from this project.
 Permissions
 
 (1) You are hereby granted permission, free of charge, to distribute this
-project in it's entirety and without modification.
+project in its entirety and without modification.
 
 (2) You are hereby granted permission, free of charge, to distribute the
 complete source material for this project, subject to the following conditions:
