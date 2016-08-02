@@ -2,15 +2,15 @@
 _A new open source license permitting derivative works only by previous
 contributors_
 
-_Version 0.1.0_
-
 This new license is pretty permissive, but only if you are a previous
 contributor. Otherwise it's quite restrictive, but gives a few permissions to
 help people do practical things like compiling for different OSs or translating.
 
 It should be suitable for software, documentation, design/artwork, or anything
-else really. It refers to the work in question as the "project" as it is a
+else really. It refers to the work in question as the "project" as that is a
 suitably generic term.
+
+It's currently under 400 words, and all future versions will be kept under 500.
 
 ## Breakdown
 
@@ -45,13 +45,16 @@ granting MIT-like permission to that user.
 
 ## Contributing to the license text
 
-This is a work in progress, and I'd appreciate contributions.
+This is a work in progress, and I'd appreciate contributions. Keep the total
+length under 500 words and neatly hard wrapped to 80 characters. For
+significant changes, please include your rationale in the PR including possible
+use cases where necessary.
 
 ## Using the license
 
-I don't think I'd recommend using this yet, as it's still in very early stages.
-If you would like to use it (either as-is, or when it's more mature) please let
-me know.
+I don't think I'd recommend using this yet as it's still in very early stages.
+If you would like to use it (either as-is or when it's more mature) I'd be
+interested to know.
 
 ## Disclaimer
 
