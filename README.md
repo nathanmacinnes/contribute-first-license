@@ -22,8 +22,10 @@ hopefully allow them to be easily referenced by licensees.
 This lets users redistribute the whole project. Easy.
 
 ### Permission 2 - redistribute source material
-Users can leave out compiled executables or anything else which is defined
-purely by the source material from their redistributions.
+Users can leave out anything which is defined purely by the source material
+from their redistributions. This means that users can, for example, distribute
+only the source code, leaving out the compiled executables, or distribute the
+.eps file and leave out the rendered images.
 
 ### Permission 3 - translate, reformat, compile
 Users can distribute the project to help with reaching a wider audience, as long
@@ -60,5 +62,5 @@ interested to know.
 
 I'm not a lawyer. Use this license at your own risk. If your work gets
 plagiarised or you get sued or any other bad stuff happens because of some
-inadequacy in this license, you need to take full responsibility for that. If in
-doubt, seek independent legal advice from a qualified professional.
+inadequacy in this license, you need to take full responsibility for that.
+Always seek independent legal advice from a qualified professional.
